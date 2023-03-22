@@ -1,0 +1,44 @@
+Generalized Function: A generalized function is a continuous distribution that is not defined by a real, locally integrable function. It is also called a continuous linear functional, or a function of functions.
+Distribution Theory: Distribution theory is a mathematical framework that uses distributions, also known as generalized functions, to deal with functions that are not well-behaved or not defined by a real, locally integrable function.
+Sample: The measured data from a section of a population that is representative of the entire population.
+Population: The full continuous distribution induced by the function.
+Systematic Sampling: Sampling that is done at regular intervals.
+Deterministic System: A system in which the function is leading to the distribution.
+Statistics: Study of collecting, analyzing, and interpreting data.
+Random Sampling: Sampling method where members of a population have the same probability of being selected
+Cluster Sampling/Stratified Sampling: Sampling method where groups (clusters) of individuals are randomly selected and then all individuals within the selected groups are included in the sample.
+Random Variable: A variable whose value is determined by chance or randomness.
+Probability Density Function: A function that describes the probability distribution of a continuous random variable.
+Univariate Distribution: probability distribution of a single random variable.
+Probability Distribution: A function that describes the likelihood of obtaining different possible outcomes in a random process.
+Discrete Random Variables: A random variable that can only take on a countable number of values.
+Probability Mass Function: A function that describes the probability distribution of a discrete random variable.
+Numeric Set: A set of numbers.
+Subset: A set of elements that are all contained within another set.
+Mathematical Axioms: Fundamental assumptions or principles that are accepted without proof in a mathematical system.
+Cumulative Distribution Function: A function that gives the probability that a random variable is less than or equal to a certain value.
+Complementary Cumulative Distribution Functions: The probability that a random variable is greater than a certain value.
+Measure Theory: A branch of mathematics that studies the properties of measures, which are functions that assign a size or volume to subsets of a set.
+Mathematical Spaces: A collection of mathematical objects with some structure or properties.
+Scheffe’s Theorem: A statistical theorem that gives a way to test multiple hypotheses at once while controlling the overall false positive rate.
+Empirical Distribution: A distribution that is based on actual observed data.
+Theoretical Probability Distribution Function: A function that describes the probability distribution of a random variable, based on theoretical considerations.
+Maximum Likelihood Estimation (MLE): A method of estimating the parameters of a probability distribution by finding the values that maximize the likelihood of the observed data.
+Parameter Space: The set of possible values for the parameters of a probability distribution.
+Conditional Probabilities: The probability of an event occurring given that another event has occurred.
+Least Squares Minimization: A method of finding the best-fit line or curve that minimizes the sum of the squares of the differences between the predicted values and the actual values.
+Error: The difference between the predicted value and the actual value.
+Residual: The difference between the observed value and the predicted value.
+Residual Sum of Squares: The sum of the squared residuals.
+Wasserstein Distance: A metric that measures the distance between two probability distributions.
+Z-Test or Student's T-Test: Statistical tests used to determine if two sample means are significantly different.
+Hypothesis Tests: Statistical tests used to determine if there is evidence to support or reject a hypothesis.
+Central Limit Theorem: A statistical theorem that states that the sampling distribution of the mean of any independent, random variable will be approximately normal if the sample size is large enough.
+Null Hypothesis: A hypothesis that there is no significant difference between two groups or variables.
+Alternative Hypothesis: A hypothesis that there is a significant difference between two groups or variables.
+P-Value: The probability of observing a test statistic as extreme as or more extreme than the one calculated from the sample data, assuming the null hypothesis is true.
+Parametric Models: Models that assume a specific probability distribution for the data.
+Mixture Models: Models that assume the data comes from a mixture of different probability distributions.
+Non-Parametric Models: Models that do not assume a specific probability distribution for the data.
+Ranked Data: Data that has been sorted in order.
+Correlation Methods: Methods used to measure the degree of association between two variables.
